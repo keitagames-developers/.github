@@ -1,3 +1,3 @@
-<img src ="We are keitagames"/>
+<img src ="We are keitagames.png"/>
 
 # welcome to keitagames
